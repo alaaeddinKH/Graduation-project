@@ -47,7 +47,7 @@ The goal of this project is to generate poetry that mimics a selected poet's sty
 - Data Sources: www.antoloji.com, siir.sitesi.web.tr, buyuksiirbelediyesi.com
 
 ## Project Flowchart
-![Project Flowchart](path/to/flowchart.png)
+![Project Flowchart](https://github.com/alaaeddinKH/Graduation-project/blob/main/Flowchart%20of%20projectjpg_Page1.jpg)
 
 ## System Architecture
 ![System Architecture](path/to/system_architecture.png)
