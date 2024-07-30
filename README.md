@@ -53,4 +53,59 @@ The goal of this project is to generate poetry that mimics a selected poet's sty
 ![System Architecture](https://github.com/alaaeddinKH/Graduation-project/blob/main/project%20architecturejpg_Page1.jpg)
 
 ## User Interface
-![Data Collection and Preparation](path/to/data_collection.png)
+![user interface](https://github.com/alaaeddinKH/Graduation-project/blob/main/userinterface1.jpg)
+![user interface 2](https://github.com/alaaeddinKH/Graduation-project/blob/main/userinterface2.jpg)
+
+## Sample of the poetry that was produced
+### Poet:Abdulrahim karakoç
+### Poem Title: bambaşkasın (You are completely different)
+### theme: kadın (women)
+
+Haramdan uzakta helâlin vesikası
+
+İsmi güzel olup, gönlü güzel kadın!
+
+Su serper ızdırabımı leylandağlarına
+
+Yağmyurunu isyanınla terleten kadın!
+
+Gözlerinde, düğümlendi dualarımız
+
+Üstümüzde sunulan kahramanlarımız
+
+Göğsünde yattığımız sancaktarlarımız
+
+Vatanımızı vatan yapan kadın!
+
+Aşk içre tutsak, ahirette azadı
+
+Kaldırır kadehi, en yakın ve en sadı
+
+Son biçilecek çiçeğiyse bahçesinin
+
+Ağlar gider, gıdası tütünlü tütün kadın!
+
+Coğrafyamızı yeryüzünden yıpratan
+
+Nice gardırop doldurmak yerine sevdayla
+
+Kokladıkça mehtabı ufuk boylarından
+
+Damarımızdaki en hakiki kan kadın!
+
+Dövüşür semahı, dize getirir zamanı
+
+Namlusu duaları, haznesi niyazı
+
+Dilimizde zaferleri, görüşümüzde hazı
+
+Tek taşı, tenimizin ocağına atan kadın!
+
+Mü’mine bakışı, kardeşlik ateşi gibi...
+
+Hayatı, toplumu süsleyen nakkaş eşi gibi!
+
+Doğuran, yetiştiren, evimizde aşını
+
+Görüntüsü sefalete benzer dahi ona kalmış...
+
