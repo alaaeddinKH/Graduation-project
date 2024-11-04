@@ -1,8 +1,8 @@
 # Mimicking AI
 
 ## Project Team
-- **Ali AKKOYUN**
 - **Alaaeddin KHEİTİ**
+- **Ali AKKOYUN**
 - **Hüseyin ELİBOL**
 - **Esat Yusuf DALBUDAK**
 
